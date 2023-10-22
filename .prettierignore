@@ -1,0 +1,9 @@
+**/dist
+**/coverage
+**/test-reports
+**/.vscode
+**/node_modules
+**/results
+**/reporting
+
+gha-creds-*.json
